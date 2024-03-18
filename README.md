@@ -59,6 +59,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-ivan-jimenez-reyes&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-ivan-jimenez-reyes&layout=donut)](https://github.com/jorge-ivan-jimenez-reyes/github-readme-stats)
+
 </div>
 
 <br/><br/>
