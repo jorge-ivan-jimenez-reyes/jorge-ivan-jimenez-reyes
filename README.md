@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Student**
+ 🔭 I’m currently **Student**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c++,c#,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,cs,java,nextjs,mysql,swift" /><br>
 </div>
 
 <br/>
