@@ -1,5 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jorge-ivan-jimenez-reyes
-.jorge-ivan-jimenez-reyes
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jorge-ivan-jimenez-reyes.jorge-ivan-jimenez-reyes
 " />
 
 <h1 align="center">
