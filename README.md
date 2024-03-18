@@ -57,7 +57,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-ivan-jimenez-reyes&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-ivan-jimenez-reyes&show_icons=true&theme=tokyonight)
 
 </div>
 
