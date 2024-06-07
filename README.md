@@ -63,16 +63,16 @@
 <h2 align="center">📜 Badges & Certifications 📜</h2>
 <div align="center">
     <a href="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/KLF5MC3B?sharingId=3B7A7279380A3971">
-        <img src="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/KLF5MC3B?sharingId=3B7A7279380A3971" alt="GitHub Copilot Badge" />
-    </a>
+        GitHub Copilot Badge
+    </a><br>
     <a href="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/W7DAUJGN?sharingId=3B7A7279380A3971">
-        <img src="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/W7DAUJGN?sharingId=3B7A7279380A3971" alt="GitHub Copilot with Python Badge" />
-    </a>
+        GitHub Copilot with Python Badge
+    </a><br>
     <a href="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/W7DA64LN?sharingId=3B7A7279380A3971">
-        <img src="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/W7DA64LN?sharingId=3B7A7279380A3971" alt="GitHub Copilot with JavaScript Badge" />
-    </a>
+        GitHub Copilot with JavaScript Badge
+    </a><br>
     <a href="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/HRKYQGN8?sharingId=3B7A7279380A3971">
-        <img src="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/HRKYQGN8?sharingId=3B7A7279380A3971" alt="GitHub Copilot with C# Badge" />
+        GitHub Copilot with C# Badge
     </a>
 </div>
 
