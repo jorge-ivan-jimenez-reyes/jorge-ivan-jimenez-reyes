@@ -1,4 +1,3 @@
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jorge-ivan-jimenez-reyes.jorge-ivan-jimenez-reyes" />
 
 <h1 align="center">
@@ -17,7 +16,7 @@
 
 ⚡ Hobby **Basketball**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:jorgeivanjimenez27@gmail.com">
@@ -59,9 +58,23 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-ivan-jimenez-reyes&layout=donut)](https://github.com/jorge-ivan-jimenez-reyes/github-readme-stats)
 
+<hr/>
+
+<h2 align="center">📜 Badges & Certifications 📜</h2>
+<div align="center">
+    <a href="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/KLF5MC3B?sharingId=3B7A7279380A3971">
+        <img src="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/KLF5MC3B?sharingId=3B7A7279380A3971" alt="GitHub Copilot Badge" />
+    </a>
+    <a href="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/W7DAUJGN?sharingId=3B7A7279380A3971">
+        <img src="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/W7DAUJGN?sharingId=3B7A7279380A3971" alt="GitHub Copilot with Python Badge" />
+    </a>
+    <a href="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/W7DA64LN?sharingId=3B7A7279380A3971">
+        <img src="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/W7DA64LN?sharingId=3B7A7279380A3971" alt="GitHub Copilot with JavaScript Badge" />
+    </a>
+    <a href="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/HRKYQGN8?sharingId=3B7A7279380A3971">
+        <img src="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/HRKYQGN8?sharingId=3B7A7279380A3971" alt="GitHub Copilot with C# Badge" />
+    </a>
 </div>
 
 <br/><br/>
-
 <hr/>
-
