@@ -73,7 +73,13 @@
     </a><br>
     <a href="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/HRKYQGN8?sharingId=3B7A7279380A3971">
         GitHub Copilot with C# Badge
-    </a>
+    </a><br>
+    <a href="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/W7DA64LN?sharingId=3B7A7279380A3971">
+        GitHub Copilot with JavaScript Badge
+    </a><br>
+    <a href="https://learn.microsoft.com/api/achievements/share/es-es/JorgeIvnJimnezReyes-3099/JCR6BFPT?sharingId=3B7A7279380A3971">
+        GitHub Copilot Explorer Badge
+    </a><br>
 </div>
 
 <br/><br/>
