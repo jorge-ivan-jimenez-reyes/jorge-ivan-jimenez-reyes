@@ -68,13 +68,7 @@
 </div>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-ivan-jimenez-reyes&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-ivan-jimenez-reyes&layout=donut)](https://github.com/jorge-ivan-jimenez-reyes/github-readme-stats)
-
-<hr/>
 
 <h2 align="center">📜 Badges & Certifications 📜</h2>
 <div align="center">
