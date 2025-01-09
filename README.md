@@ -42,14 +42,16 @@
 <br/>
 <hr/>
 
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<br/>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jorge-ivan-jimenez-reyes/jorge-ivan-jimenez-reyes/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
-</div>
+
+<br/><br/>
+
+---
+
 ## 📊 GitHub Stats:
 
 <div align="center">
@@ -57,8 +59,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorge-ivan-jimenez-reyes&theme=github_dark" />
   </a>
   <a href="https://github.com/jorge-ivan-jimenez-reyes">
+    <img src="https://streak-stats.demolab.com?user=jorge-ivan-jimenez-reyes&theme=github-dark-blue&hide_border=true" />
   </a>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=jorge-ivan-jimenez-reyes)](https://git.io/streak-stats)
   <a href="https://github.com/jorge-ivan-jimenez-reyes">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorge-ivan-jimenez-reyes&theme=github_dark" />
   </a>
@@ -66,9 +68,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-ivan-jimenez-reyes&langs_count=10&layout=compact&theme=github_dark" />
   </a>
 </div>
-<hr/>
 
-
+---
 
 <h2 align="center">📜 Badges & Certifications 📜</h2>
 <div align="center">
@@ -88,5 +89,8 @@
         GitHub Copilot Explorer Badge
     </a><br>
 
-<br/><br/>
-<hr/>
+---
+
+### **Notas Finales:**
+1. Asegúrate de haber activado la opción **GitHub Pages** en el repositorio para la serpiente de contribuciones.
+2. Si los gráficos de `vercel.app` o `demolab.com` no cargan, asegúrate de permitir las imágenes en tu navegador o utiliza un servidor alternativo como `github-readme-stats.vercel.app`.
