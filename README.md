@@ -57,8 +57,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorge-ivan-jimenez-reyes&theme=github_dark" />
   </a>
   <a href="https://github.com/jorge-ivan-jimenez-reyes">
-    <img src="[![GitHub Streak](https://streak-stats.demolab.com/jorge-ivan-jimenez-reyesuser=DenverCoder1)](https://git.io/streak-stats)" />
   </a>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=jorge-ivan-jimenez-reyes)](https://git.io/streak-stats)
   <a href="https://github.com/jorge-ivan-jimenez-reyes">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorge-ivan-jimenez-reyes&theme=github_dark" />
   </a>
