@@ -89,8 +89,3 @@
         GitHub Copilot Explorer Badge
     </a><br>
 
----
-
-### **Notas Finales:**
-1. Asegúrate de haber activado la opción **GitHub Pages** en el repositorio para la serpiente de contribuciones.
-2. Si los gráficos de `vercel.app` o `demolab.com` no cargan, asegúrate de permitir las imágenes en tu navegador o utiliza un servidor alternativo como `github-readme-stats.vercel.app`.
