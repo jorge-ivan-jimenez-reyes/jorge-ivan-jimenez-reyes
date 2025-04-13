@@ -1,0 +1,62 @@
+# ---------------------------------------------------------
+#  GitHub Action: Genera una animación “Snake” con tu gráfico
+#  de contribuciones y la sube al branch `output`.
+# ---------------------------------------------------------
+
+name: Generate Snake
+
+on:
+  # Lanza el job dos veces al día (00 UTC y 12 UTC).
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Permite dispararlo a mano desde la pestaña Actions.
+  workflow_dispatch:
+
+  # Vuelve a correr si haces push en la rama principal.
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1) Clonar el repo.
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # 2) Generar los archivos Snake dentro de ./dist/
+      - name: Generate Snake SVG + GIF
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          # Tu usuario de GitHub (toma el owner del repo automáticamente)
+          github_user_name: ${{ github.repository_owner }}
+
+          # Archivos de salida. Puedes añadir o quitar formatos/paletas.
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=#FFA500&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          # Token de acceso: el token automático es suficiente
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3) (Opcional) Mostrar el estado del repo para depurar.
+      - name: Show build status
+        run: git status
+
+      # 4) Publicar los archivos en el branch `output`
+      - name: Push snake files to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # Rama de destino
+          target_branch: output
+          # Carpeta donde se generaron los archivos
+          build_dir: dist
+          # Mensaje de commit
+          commit_message: "chore: update snake animation"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
